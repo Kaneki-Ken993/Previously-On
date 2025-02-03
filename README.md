@@ -14,7 +14,7 @@ Scalability: Ideal if you plan to extend the project in the future, such as addi
 
 Clone the repository:
 
-git clone git@github.com:Kaneki-Ken993/Previously-On.git
+'git clone git@github.com:Kaneki-Ken993/Previously-On.git'
 
 create a .env file and add the variable "API_KEY" which you could get from betaseries api website after signing up [here](https://www.betaseries.com/) and choosing the API tab
 
